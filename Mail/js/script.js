@@ -23,3 +23,7 @@ if (authorizedMail === true) {
 } else {
     console.log("Mi dispiace, la tua mail non è presente tra quelle autorizzate all'accesso");
 }
+
+
+// includes, ritorna vero o falso se l'elemento è presente o no nell'array
+//const authorizedMail = mailList.includes(userMail);
