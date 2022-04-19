@@ -21,5 +21,5 @@ for (let i = 0; i < mailList.length; i++) {
 if (authorizedMail === true) {
     console.log("La tua mail è presente tra quelle autorizzate all'accesso");
 } else {
-    console.log("Mi dispiace, la tua mail non è presente tra quelle autorizzate all'accesso")
+    console.log("Mi dispiace, la tua mail non è presente tra quelle autorizzate all'accesso");
 }
